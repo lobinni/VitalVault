@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets and local state
+.env
+artifacts/
+
+# Node (in case a frontend prototype is scaffolded nearby -- keep it out of this package)
+node_modules/
+dist/

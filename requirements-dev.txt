@@ -1,0 +1,8 @@
+# Development and testing dependencies for the VitalVault Intelligent Contract package.
+#
+# genlayer-test (gltest) provides the pytest plugin with the direct-VM fixtures used by
+# tests/direct (direct_deploy, direct_vm, direct_alice/bob/carol/dave, mock_web/mock_llm, warp).
+# If your environment resolves a different distribution name, follow the gltest installation
+# instructions at https://docs.genlayer.com
+genlayer-test
+pytest>=8.0

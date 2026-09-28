@@ -1,0 +1,13 @@
+{
+  "contract": "VitalVault",
+  "source": "contracts/VitalVault.py",
+  "constructor_args": [],
+  "networks": {
+    "studionet": {
+      "address": "0xCdfB0533aE689AD2D7da6875f3F4454Ce8DF38e4",
+      "explorer": "https://explorer-studio.genlayer.com/address/0xCdfB0533aE689AD2D7da6875f3F4454Ce8DF38e4",
+      "status": "deployed",
+      "notes": "Reference deployment. The constructor takes no arguments and grants no roles; deployment itself confers no privileges on any address."
+    }
+  }
+}
